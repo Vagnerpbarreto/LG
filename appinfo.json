@@ -1,0 +1,11 @@
+{
+    "vendor": "Vagner Barreto",
+    "largeIcon": "go.png",
+    "iconColor": "#0404B4",
+    "icon": "go.png",
+    "main": "index.html",
+    "id": "br.com.vagnerbarreto",
+    "title": "Go IPTV",
+    "type": "web",
+    "version": "0.0.1"
+}
